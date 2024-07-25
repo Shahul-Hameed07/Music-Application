@@ -15,7 +15,12 @@ For Viewing the Project to follow the Steps :
 1. Download Adobe XD 
 2. In my Github Repository , Download the "Music Application.xd" and Open it on Adobe XD.
 
-
-
 Take a look at my design process and prototype : 
+<img width="648" alt="Screenshot 2024-07-25 134705" src="https://github.com/user-attachments/assets/c989c919-46fe-4aea-88c2-ca322f2e4932">
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/a2bfadb3-38f9-4b62-9e73-8d651b9b463b">
+<img width="364" alt="Screenshot 2024-07-25 134732" src="https://github.com/user-attachments/assets/ca2dd61a-27bc-404f-a764-b78f8383254f">
+<img width="371" alt="Screenshot 2024-07-25 134748" src="https://github.com/user-attachments/assets/9bcc5ba6-de7c-4089-8c02-20b9fe7960c0">
+
+
+
 
