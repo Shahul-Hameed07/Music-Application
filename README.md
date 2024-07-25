@@ -2,7 +2,7 @@
 Music Application Using Adobe XD
 Basic music application with 10 songs using Adobe XD! This intense design sprint pushed me to think creatively, work efficiently, and deliver a high-quality user experience.
 
-[Click Here For Viewing Complete Documentation Of the Project](https://acrobat.adobe.com/id/urn:aaid:sc:AP:e71281cc-a57c-4e6c-ab74-0d27e28c5d7e)
+[*Click Here For Viewing Complete Documentation Of the Project*](https://acrobat.adobe.com/id/urn:aaid:sc:AP:e71281cc-a57c-4e6c-ab74-0d27e28c5d7e)
 
 From wireframing to prototyping, I designed an intuitive and visually stunning music app that allows users to:
 
